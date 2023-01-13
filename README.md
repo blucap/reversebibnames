@@ -29,7 +29,7 @@ All you need to do is entering this in a terminal:
 
 and presto. It will give you the all you need. Plus it copies the below to your clipboard for easy entry into Zotero. 
 
-`Owen, Walker
+`Owen, Walker`
 
 `Laura, Noonan`
 
