@@ -14,7 +14,9 @@ For BibTex you need the author names in reverse order, with `and` in between:
 For Zotero you need them stacked to enter them as a batch using the single field name switch:
 
 `Owen, Walker` 
+
 `Laura, Noonan` 
+
 `Ian, Smith`
 
 See this [link](https://forums.zotero.org/discussion/54351/inserting-batch-author-names/) for help on entering a batch of names in Zotero.
@@ -27,8 +29,10 @@ All you need to do is entering this in a terminal:
 
 and presto. It will give you the all you need. Plus it copies the below to your clipboard for easy entry into Zotero. 
 
-`Owen, Walker`
+`Owen, Walker
+
 `Laura, Noonan`
+
 `Ian, Smith`
 
 If you want the BibTex line copied to the clipboard use the `b` switch:
